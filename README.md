@@ -13,7 +13,7 @@ Copyright (c) $today.year. Team Yohe from Southeast University
 All rights reserved.
 ```
 After that, click back to Copyright and set a scope for your copyright, `'All'` is preferred.<br>
-###File Header
+####File Header
 Follow instructions listed below:<br>
        File->Settings...->Editor->File and Code Templates->File Header<br>
 Here's the file header template:<br>
@@ -31,7 +31,8 @@ Here's the file header template:<br>
 ```
 After that, you will be able to navigate to your code in Android Studio.<br>
 ####More about coding
-Here's still some basic rules we might want to obey, we'll discuss that later.
+Here's still some other basic rules we might want to obey, we'll discuss that later.<br>
+
 ------------------------------------------------------------------------------
 ##Clean Android Architecture
 See article [Architecting Android…The clean way](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/) for details.<br>
@@ -127,6 +128,7 @@ In this example, they just put them in the domain package.<br>
 ###Data Layer
 We can fetch data from ram, files or cloud here and provide an interface for the domain layer
 when it request some kind of data.`That's for you to find out...`<br>
+
 -----------------------------------------------------------------------
 ##Open Source tools
 See [android open project](https://github.com/Trinea/android-open-project), dig anything you want.<br>
